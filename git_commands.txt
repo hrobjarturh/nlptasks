@@ -3,4 +3,5 @@ git status # all files you have add are red
 git add # add all files you wsnt to commit
 git restore # remove changes you have made to a file
 git commit -m "some comment"
-git push origin main # push
+git push origin main # push commits to github
+git pull origin main # pull new changes to local machine
